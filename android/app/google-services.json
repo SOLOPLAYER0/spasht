@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494027383066",
+    "firebase_url": "https://spasht-868bd-default-rtdb.firebaseio.com",
+    "project_id": "spasht-868bd",
+    "storage_bucket": "spasht-868bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494027383066:android:14e8559a9603255fe54ca3",
+        "android_client_info": {
+          "package_name": "com.mycompany.spasht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494027383066-rk2uks5q5tr7v9tsqe97q2n16b6eodmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZIg_eQrEPtgShGEq-SlLKUE2VqNJxJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494027383066-rk2uks5q5tr7v9tsqe97q2n16b6eodmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "494027383066-v3cvikqrn8na4og25d1ek9ahjepb4eoj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.spasht"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
